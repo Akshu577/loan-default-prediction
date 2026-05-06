@@ -11,6 +11,10 @@ A machine learning project to predict loan defaults using classification modelin
 - AUC: 0.91
 - Best Threshold: 0.1 (F1: 0.876)
 - Accuracy: 83%
+# Loan Default Prediction
+
+## SHAP Feature Importance
+![SHAP Summary](images/shap_summary.png)
 
 ## Setup
 ```bash
