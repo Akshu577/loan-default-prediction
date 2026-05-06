@@ -14,7 +14,7 @@ A machine learning project to predict loan defaults using classification modelin
 # Loan Default Prediction
 
 ## SHAP Feature Importance
-![SHAP Summary](images/shap_summary.png)
+![SHAP Summary](/Users/akshukarki/Desktop/Shap.png)
 
 ## Setup
 ```bash
