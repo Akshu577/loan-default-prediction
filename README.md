@@ -4,11 +4,6 @@ A machine learning web app that predicts whether a loan applicant is likely to d
 
 ---
 
-## 🚀 Live Demo
-*(Add later if you deploy it on Streamlit Cloud or Render)*
-
----
-
 ## 📌 Project Overview
 
 This project predicts loan default risk based on applicant financial features such as income, credit score, debt ratio, and repayment history.
