@@ -44,7 +44,7 @@ Input Form & Prediction Output
 
 Tech Stack
 
-- Python 🐍
+- Python 
 - Pandas & NumPy
 - Scikit-learn
 - XGBoost
